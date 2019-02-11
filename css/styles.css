@@ -1,0 +1,12 @@
+#walus-showing {
+  display: none;
+}
+
+.clickable {
+  sursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decotration: underline;
+}
